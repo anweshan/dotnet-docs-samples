@@ -26,7 +26,7 @@ Usage:
   dotnet run
  */
 
-// [START analyticsdata_runReportTest
+// [START analyticsdata_runReportTest]
 using Google.Analytics.Data.V1Beta;
 using System;
 
